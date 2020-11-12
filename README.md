@@ -17,7 +17,7 @@ Structure:
 - Interfaces
 - Channels and Go Routines
 
-Value Types (Use pointers to change these things in a function) | Reference Types (Don't worry about pointers will these)
+Value Types (Use pointers to change these things in a function) | Reference Types (Don't worry about pointers)
 ------------ | -------------
 int | slices 
 float | maps
